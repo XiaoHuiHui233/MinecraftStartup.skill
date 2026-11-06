@@ -1,0 +1,60 @@
+{
+  "dataRoot": null,
+  "folders": {
+    "instances": "instances",
+    "mods": "mods",
+    "java": "java",
+    "skins": "skins",
+    "downloads": "downloads"
+  },
+  "java": {
+    "installations": [],
+    "pendingDownload": null
+  },
+  "accounts": {
+    "microsoft": {
+      "clientId": "c36a9fb6-4f2a-41ff-90bd-ae7cc92031eb"
+    },
+    "selectedId": null,
+    "entries": []
+  },
+  "instances": {
+    "selectedId": null,
+    "entries": [],
+    "retiredIds": []
+  },
+  "downloads": {
+    "provider": "prism",
+    "metadataBaseUrl": "https://meta.prismlauncher.org/v1/",
+    "downloadOnCreate": true
+  },
+  "lastLaunch": null,
+  "management": {
+    "network": {
+      "offline": false
+    },
+    "providers": {
+      "modrinth": {
+        "apiBaseUrl": "https://api.modrinth.com/v2"
+      },
+      "curseforge": {
+        "enabled": false,
+        "apiBaseUrl": "https://api.curseforge.com/v1",
+        "credentialRef": null
+      }
+    },
+    "backup": {
+      "relativeDirectory": "downloads/backups"
+    },
+    "historyLimit": 50
+  },
+  "content": {
+    "entries": []
+  },
+  "backups": {
+    "entries": []
+  },
+  "operations": {
+    "entries": []
+  }
+}
