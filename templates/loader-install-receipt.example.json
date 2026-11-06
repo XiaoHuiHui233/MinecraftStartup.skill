@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "state": "uninitialized",
+  "operationId": null,
+  "kind": "forgewrapper",
+  "side": "client",
+  "minecraftVersion": null,
+  "loader": {"uid": null, "version": null},
+  "metadataSources": [],
+  "java": {"id": null, "version": null, "architecture": null},
+  "confirmation": null,
+  "installer": {"coordinate": null, "relativePath": null, "sha256": null},
+  "wrapper": {"coordinate": null, "relativePath": null, "sha256": null},
+  "descriptors": [],
+  "processors": [],
+  "inputs": [],
+  "outputs": [],
+  "exitCode": null,
+  "verification": null,
+  "verifiedAt": null
+}

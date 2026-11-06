@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "state": "uninitialized",
+  "operationId": null,
+  "sourceIdentity": {"provider": null, "projectId": null, "versionId": null},
+  "archiveSha256": null,
+  "sourceManifest": {"relativePath": null, "sha256": null},
+  "components": [],
+  "side": "client",
+  "publicSourceConsent": null,
+  "optionalSelection": [],
+  "excluded": [],
+  "files": [],
+  "protectedPaths": [],
+  "installationReceipt": {"relativePath": null, "sha256": null},
+  "loaderReceipt": {"relativePath": null, "sha256": null}
+}

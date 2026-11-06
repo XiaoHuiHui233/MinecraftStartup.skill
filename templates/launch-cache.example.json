@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "state": "uninitialized",
+  "reason": "Example only; generate from a verified installed instance before use",
+  "instanceId": null,
+  "generatedAt": null,
+  "os": null,
+  "architecture": null,
+  "executable": null,
+  "cwd": null,
+  "argvTemplate": [],
+  "dynamicBindings": [],
+  "configBinding": {
+    "dataRoot": null,
+    "folders": null,
+    "instance": null,
+    "java": null,
+    "account": null,
+    "clientId": null
+  },
+  "sources": [],
+  "javaIdentity": null,
+  "requiredFiles": [],
+  "nativeDir": null,
+  "installationReceipt": null,
+  "authValidation": null
+}
